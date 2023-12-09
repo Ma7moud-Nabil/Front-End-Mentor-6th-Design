@@ -13,7 +13,7 @@ body {
     width: 750px;
     display: flex;
     flex-direction: row-reverse;
-    margin: 50px auto;
+    margin: 150px auto;
     background-color: aliceblue;
     border-radius: 5px;
     background-color: hsl(244, 38%, 16%);
